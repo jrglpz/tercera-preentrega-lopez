@@ -1,1 +1,0 @@
-la aplicacion coderapp contiene crearalumno, crearcurso, crearprofesor, clicleando en cada boton se puede acceder a los formularios para completar el que se desee. En el panel de administracion de django se pueden observar los datos registrados.
