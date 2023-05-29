@@ -39,3 +39,4 @@ def crearcurso(request):
     else:  
         form = CreaCursoForm()
     return render(request, "crearcurso.html", {"form": form})
+
